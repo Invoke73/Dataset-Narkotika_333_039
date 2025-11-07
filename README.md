@@ -1,9 +1,9 @@
 # ⚖️ Dataset Putusan Pengadilan Negeri Palu  
-### *UTS Mata Kuliah Temu Kembali Informasi*  
+
 
 ---
 
-## 🧭 Pendahuluan  
+## Pendahuluan  
 
 Dataset ini berisi kumpulan **dokumen putusan hukum dari Pengadilan Negeri Palu**, yang diambil dari **Direktori Putusan Mahkamah Agung Republik Indonesia** melalui situs resmi [putusan3.mahkamahagung.go.id](https://putusan3.mahkamahagung.go.id/).  
 
@@ -13,7 +13,7 @@ Dokumen-dokumen ini bersifat publik dan terbuka untuk umum. Tujuan utama dari pe
 
 ---
 
-## 🎯 Tujuan Penggunaan Dataset  
+## Tujuan Penggunaan Dataset  
 
 Dataset putusan dari Pengadilan Negeri Palu ini dimanfaatkan untuk memahami bagaimana sistem komputer dapat membantu manusia dalam menelusuri informasi hukum secara efisien. Beberapa tujuan utamanya antara lain:  
 
@@ -24,7 +24,7 @@ Dataset putusan dari Pengadilan Negeri Palu ini dimanfaatkan untuk memahami baga
 
 ---
 
-## 🔍 Informasi Umum dalam Dataset  
+## Informasi Umum dalam Dataset  
 
 Setiap dokumen putusan memuat unsur-unsur utama seperti:  
 
@@ -50,7 +50,7 @@ Dokumen-dokumen ini menjadi sumber utama bagi sistem temu kembali informasi untu
 
 ---
 
-## 💡 Manfaat Akademik dan Penelitian  
+## Manfaat Akademik dan Penelitian  
 
 Penggunaan dataset ini membuka peluang besar untuk eksplorasi akademik di bidang **Information Retrieval** dan **Natural Language Processing (NLP)**.  
 Beberapa manfaat dan arah penelitian yang dapat dikembangkan antara lain:  
@@ -65,7 +65,7 @@ Melalui pemanfaatan dataset ini, mahasiswa tidak hanya belajar memahami konten h
 
 ---
 
-## 📚 Sumber Dataset  
+## Sumber Dataset  
 
 Dataset ini diambil secara resmi dari:  
 
